@@ -31,14 +31,14 @@ public class MainActivity extends AppCompatActivity {
     private Switch grarad;
     private TextView result;
 
-    private final char ADDITION = '+';
-    private final char SUBTRACT = '-';
-    private final char MULTIPLY = '*';
-    private final char DIVIDE = '/';
-    private final char EQUAL = '0';
-    private final char SIN = 's';
-    private final char COS = 'c';
-    private final char TAN = 't';
+    private char ADDITION = '+';
+    private char SUBTRACT = '-';
+    private char MULTIPLY = '*';
+    private char DIVIDE = '/';
+    private char EQUAL = '0';
+    private char SIN = 's';
+    private char COS = 'c';
+    private char TAN = 't';
 
     private char ACTION;
 
